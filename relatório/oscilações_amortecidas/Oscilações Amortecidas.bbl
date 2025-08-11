@@ -1,0 +1,44 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[da~Silva(2018)]{carlos2018}
+Carlos E.~Rufino da~Silva.
+\newblock Relatório do experimento do pêndulo físico física não-linear
+  (tef 2018.1), 2018.
+
+\bibitem[Lima()]{ressonador}
+Niels~Fontes Lima.
+\newblock Experimentos com o ressonador de {H}elmholtz.
+\newblock
+  \url{http://www.ifba.edu.br/fisica/nfl/fge2/RessonadorDeHelmholtz/ExperimentoRessonadorDeHelmholtz.html}.
+
+\bibitem[MatPlotLib()]{matplotdoc}
+MatPlotLib.
+\newblock Matplotlib documentation.
+\newblock \url{https://matplotlib.org/3.5.0/index.html}.
+
+\bibitem[Nave()]{nave}
+Carl~R. Nave.
+\newblock Damped harmonic oscillator.
+\newblock \url{http://hyperphysics.phy-astr.gsu.edu/hbase/oscda.html}.
+
+\bibitem[Numpy()]{numpydoc}
+Numpy.
+\newblock Numpy documentation.
+\newblock \url{https://numpy.org/doc/stable/index.html}.
+
+\bibitem[Pandas()]{pandasdoc}
+Pandas.
+\newblock Pandas documentation.
+\newblock \url{https://pandas.pydata.org/docs/}.
+
+\bibitem[Scipy()]{scipydoc}
+Scipy.
+\newblock Scipy documentation.
+\newblock \url{https://docs.scipy.org/doc/scipy/}.
+
+\end{thebibliography}
